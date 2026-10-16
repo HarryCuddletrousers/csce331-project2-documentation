@@ -1,1 +1,1 @@
-This repository will host documentation for CSCE-311 project 2 code.
+This repository hosts the documentation for Project 2.
